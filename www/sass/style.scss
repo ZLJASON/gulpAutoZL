@@ -1,0 +1,72 @@
+@import "screen";
+@import "compass/css3";
+@import "compass/typography";
+//辅助排版工具
+@import "compass/layout/grid-background";
+@import "compass/utilities/sprites";
+
+
+//导入compass的css3功能
+$base-font-size:16px;
+$base-line-height:30px;
+$blueprint-container-size:960px;
+@include establish-baseline;
+/*bluesprit 网格*/
+html,body{
+  //@include debug-vertical-alignment;
+}
+
+%compass-PIE{
+  behavior: url("/www/css/PIE.htc");
+}
+
+
+.content{
+  @include container;
+}
+#header,#footer{
+  text-align: center;
+  @include column($blueprint-grid-columns);
+}
+#sidebar{
+  $sidebar-columns:floor($blueprint-grid-columns/4);
+  @include column($sidebar-columns);
+}
+#content{
+  $sidebar-columns:floor(3*$blueprint-grid-columns/4);
+  @include column($sidebar-columns);
+  //基线
+  //@include  baseline-grid-background;
+  //@include  grid-background;
+  @include debug-vertical-alignment;
+  @extend  %compass-PIE
+}
+.image-box{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+}
+.a{
+  @include unstyled-link;
+  @include link-colors(#333,#oof,#f00,#555,#foo);
+}
+
+.displayFlex{
+  @include display-flex;
+  @include pretty-bullets('grid.png');
+}
+ul.nav{
+  @include horizontal-list;
+  @include ellipsis(true);
+}
+.compass-css3-rotateZ{
+  //@include rotateZ(10deg);
+  background:red;
+  behavior: url("/www/css/PIE.htc");
+  @include border-radius(12px);
+}
+
+
+
+

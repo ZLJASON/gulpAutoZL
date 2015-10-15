@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaa5e65b-b16e-4090-88aa-a5bdecf96415" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/temp/PIE-1.0.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/377bd38ec4e5dceb475cb4c02c1b07da7a6841a4/_alternating-rows-and-columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/2c07c32d91ef0f1e96d36283f56d0015ba8d31b8/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6cc12616f2da9acb7653aa978605ee36805ae398/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-blueprint-1.0.0/framework/blueprint/stylesheets/_blueprint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/e7a3ffb219cf3351527da263749a6a3766dc3fbe/_blueprint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/377bd38ec4e5dceb475cb4c02c1b07da7a6841a4/_borders.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/e52fe21cfd28fb24ecb6e09f2d53746fd967cb02/_brightness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/896eac327216c52474a7439beef89a1ac49b9a70/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/d1dedeebab1f5765c20bf24d86278d8b9ca43ae6/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a48389db60d9c06f27f522bec4d5c97cd2d52a2a/_color.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-blueprint-1.0.0/framework/blueprint/stylesheets/blueprint/_colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/045411ea8b85c735b814537efe341b8594acc4aa/_compass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/e52fe21cfd28fb24ecb6e09f2d53746fd967cb02/_contrast.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/dfec4d0e634cc72085b422002c33cd996cb44edc/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_debug.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_deprecated-support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/07c00e308eb1088d1a36be6966012cfcda6cd110/_ellipsis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/d1dedeebab1f5765c20bf24d86278d8b9ca43ae6/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/07c00e308eb1088d1a36be6966012cfcda6cd110/_force-wrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6cc12616f2da9acb7653aa978605ee36805ae398/_form.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_form.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-blueprint-1.0.0/framework/blueprint/stylesheets/blueprint/_form.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/workSpace/webWork/glupTe/www/sass/partials/_form.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a48389db60d9c06f27f522bec4d5c97cd2d52a2a/_general.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/0a28bb82f209b54d53475bee2414068207d9b682/_grid-background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/layout/_grid-background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-blueprint-1.0.0/framework/blueprint/stylesheets/blueprint/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/d1dedeebab1f5765c20bf24d86278d8b9ca43ae6/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/896eac327216c52474a7439beef89a1ac49b9a70/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a09783fd6b793f855972c3c21b463f5d5f88eccd/_hover-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_ie.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/896eac327216c52474a7439beef89a1ac49b9a70/_inline-block-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/896eac327216c52474a7439beef89a1ac49b9a70/_inline-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_interaction.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/links/_link-colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a09783fd6b793f855972c3c21b463f5d5f88eccd/_link-colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/0eb295d5ea78679180f0630ba7b6293251b14050/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/0eb295d5ea78679180f0630ba7b6293251b14050/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/d1dedeebab1f5765c20bf24d86278d8b9ca43ae6/_min.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/07c00e308eb1088d1a36be6966012cfcda6cd110/_nowrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/text/_nowrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6cc12616f2da9acb7653aa978605ee36805ae398/_page.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/workSpace/webWork/glupTe/www/sass/partials/_page.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/07c00e308eb1088d1a36be6966012cfcda6cd110/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/text/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/d1dedeebab1f5765c20bf24d86278d8b9ca43ae6/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/377bd38ec4e5dceb475cb4c02c1b07da7a6841a4/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/2c07c32d91ef0f1e96d36283f56d0015ba8d31b8/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a48389db60d9c06f27f522bec4d5c97cd2d52a2a/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/dfec4d0e634cc72085b422002c33cd996cb44edc/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a48389db60d9c06f27f522bec4d5c97cd2d52a2a/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/d1dedeebab1f5765c20bf24d86278d8b9ca43ae6/_tag-cloud.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/0eb295d5ea78679180f0630ba7b6293251b14050/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6cc12616f2da9acb7653aa978605ee36805ae398/_two_col.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-blueprint-1.0.0/framework/blueprint/stylesheets/blueprint/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/dfec4d0e634cc72085b422002c33cd996cb44edc/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/0eb295d5ea78679180f0630ba7b6293251b14050/_units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/a09783fd6b793f855972c3c21b463f5d5f88eccd/_unstyled-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/166f74288828115d7a51092808b9e02a72dba569/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/56e42d95251ff67dbf5761dcb1e184f38e682441/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/6fe6b4ef2789b9664cac2836879b8f3887be735a/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/dfec4d0e634cc72085b422002c33cd996cb44edc/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/e3fe34a26d176bec89b3172ac30440bf3bdbb2ec/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/0eb295d5ea78679180f0630ba7b6293251b14050/_vertical_rhythm.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/images/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/235419238ce93b15cde117113a15bd60a77b719c/ie.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/235419238ce93b15cde117113a15bd60a77b719c/print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/235419238ce93b15cde117113a15bd60a77b719c/screen.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/D%058/workSpace/webWork/glupTe/www/sass/screen.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.sass-cache/235419238ce93b15cde117113a15bd60a77b719c/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/PIE.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/PIE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/PIE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/PIE_uncompressed.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/PIE_uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/partials/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/partials/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/partials/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/partials/_page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/partials/_two_col.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gulpAutoZl.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/handlebars-v4.0.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/stylesheets/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/ie.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/ie.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/ie.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/ie.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery-2.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/require/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/knockout-3.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/stylesheets/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/print.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/require/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/stylesheets/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/screen.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/screen.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/gulpPr/sass/screen.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/screen.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/require/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="glupTe.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="glupTe" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.95530725">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+              <folding>
+                <element signature="e#1914#1996#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/sass/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+              <folding>
+                <marker date="1444894055446" expanded="true" signature="49741:49742" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scss/ionic.app.scss" />
+        <option value="$PROJECT_DIR$/scss/screen.scss" />
+        <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/node_modules/gulp-compass/gulpfile.js" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/www/templates/test.hbs" />
+        <option value="$PROJECT_DIR$/www/templates/js/templates.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
+        <option value="$PROJECT_DIR$/www/sass/ie.css" />
+        <option value="$PROJECT_DIR$/node_modules/gulp-compass/lib/index.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/www/sass/screen.scss" />
+        <option value="$PROJECT_DIR$/www/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/www/config.rb" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/www/sass/style.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="glupTe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="glupTe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gulpAutoZl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.phonegap.settings.workdir" value="D:\workSpace\webWork\glupTe" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js.buildTools.gulp.node_interpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="D:\workSpace\webWork\glupTe\node_modules\gulp" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodeEx" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workSpace\webWork\glupTe\www\sass" />
+      <recent name="D:\workSpace\webWork\glupTe\www" />
+      <recent name="D:\workSpace\webWork\glupTe\www\js" />
+      <recent name="D:\workSpace\webWork\glupTe" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workSpace\webWork\glupTe\www\lib" />
+      <recent name="D:\workSpace\webWork\glupTe\www" />
+      <recent name="D:\workSpace\webWork\glupTe\scss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gulp.js.gulp">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" />
+      <option name="myWorkDir" />
+      <option name="myCommand" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" />
+      <option name="myExtraArgs" />
+      <option name="hasTarget" value="false" />
+      <option name="target" />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gulp" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>myTaskName</task>
+      </tasks>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Phonegap/Cordova run" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" value="C:\Users\lfjt\AppData\Roaming\npm\ionic.cmd" />
+      <option name="myWorkDir" value="D:\workSpace\webWork\glupTe" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.gulp" />
+      <item index="1" class="java.lang.String" itemvalue="PhoneGap/Cordova.Phonegap/Cordova run" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lfjt\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaa5e65b-b16e-4090-88aa-a5bdecf96415" name="Default" comment="" />
+      <created>1444448541633</created>
+      <option name="number" value="Default" />
+      <updated>1444448541633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30445153" sideWeight="0.3886926" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30445153" sideWeight="0.61130744" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2396204" sideWeight="0.5190779" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.49682036" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960254" sideWeight="0.43348983" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23871733" sideWeight="0.4809221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39786223" sideWeight="0.4936407" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1914#1996#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+          <folding>
+            <marker date="1444894055446" expanded="true" signature="49741:49742" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+          <folding>
+            <marker date="1444894055446" expanded="true" signature="49741:49742" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#1914#1996#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4059405">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17270789">
+          <caret line="3" column="102" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:////10.240.15.101/tools/新建文件夹/schedule/js/MoCoop/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20224719">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/ie.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/print.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10131332">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/screen.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.75">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.444445">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6921642">
+          <caret line="167" column="31" selection-start-line="167" selection-start-column="31" selection-end-line="167" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/handlebars-v4.0.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31889763">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/gulpPr/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/print.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/ie.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/grid.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/partials/_two_col.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46875">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/partials/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17374517">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.3">
+          <caret line="633" column="69" selection-start-line="633" selection-start-column="69" selection-end-line="633" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/stylesheets/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-blueprint-1.0.0/framework/blueprint/stylesheets/blueprint/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40104166">
+          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+          <folding>
+            <marker date="1444894055446" expanded="true" signature="49741:49742" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95530725">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+          <folding>
+            <element signature="e#1914#1996#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

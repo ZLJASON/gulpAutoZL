@@ -1,0 +1,15 @@
+{
+  "project" : "Gulp",
+  "localserver" : {
+    "host" : "localhost",
+    "port" : "8080"
+  },
+  "tinypngapi": "Tinypng API KEY",
+  "sftp" : {
+    "host" : "8.8.8.8",
+    "user" : "username",
+    "port" : "22",
+    "key" : "~/.ssh/sdfsfdsf",
+    "remotePath" :"/"
+  }
+}
